@@ -22,4 +22,4 @@ A simple and responsive currency converter web application that allows users to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sridharui/CurrencyConvertor
+   (https://github.com/sridharui/CurrencyConvertor)
