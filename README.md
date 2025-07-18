@@ -5,7 +5,7 @@ A simple and responsive **Currency Converter** web application that allows users
 
 ## 🌐 Live Demo
 
-👉 [Copy This Link To Get Project] https://sridharui.github.io/CurrencyConvertor/
+👉 [Click This Link To Get Project] https://sridharui.github.io/CurrencyConvertor/
 
 
  🚀 Features
